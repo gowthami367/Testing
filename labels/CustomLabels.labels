@@ -46,7 +46,7 @@
     </labels>
     <labels>
         <fullName>CORE_Lead_status_handover_done</fullName>
-        <language>en_US</language>
+        <language>en_UK</language>
         <protected>false</protected>
         <shortDescription>Lead status handover done</shortDescription>
         <value>Handover done</value>
