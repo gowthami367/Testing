@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Admin_Label</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Admin_Label</shortDescription>
+        <value>Admin</value>
+    </labels>
+    <labels>
+        <fullName>CORE_Assign_to_me</fullName>
+        <categories>Button</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Assign to me</shortDescription>
+        <value>Assign to me</value>
+    </labels>
+    <labels>
+        <fullName>CORE_CommunityCaseURL</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CommunityCaseURL</shortDescription>
+        <value>/onecrm/s/case/</value>
+    </labels>
+    <labels>
+        <fullName>CORE_Complaint_Case_Id</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Complaint Case Id</shortDescription>
+        <value>0121r000000eBUlAAM</value>
+    </labels>
+    <labels>
+        <fullName>CORE_Create_Vehicle</fullName>
+        <categories>Button</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Create Vehicle</shortDescription>
+        <value>Create Vehicle</value>
+    </labels>
+    <labels>
+        <fullName>CORE_Critical_Case_Id</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Critical Case Id</shortDescription>
+        <value>0121r000000eBUmAAM</value>
+    </labels>
+    <labels>
+        <fullName>CORE_Lead_status_handover_done</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Lead status handover done</shortDescription>
+        <value>Handover done</value>
+    </labels>
+    <labels>
+        <fullName>CORE_Lead_status_order</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Lead status order</shortDescription>
+        <value>Order</value>
+    </labels>
+    <labels>
+        <fullName>CORE_Log_an_activity</fullName>
+        <categories>Button</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Log an activity</shortDescription>
+        <value>Log an activity</value>
+    </labels>
+    <labels>
+        <fullName>CORE_New_Lead</fullName>
+        <categories>Button</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>New Lead</shortDescription>
+        <value>New Lead.</value>
+    </labels>
+    <labels>
+        <fullName>CORE_New_Task</fullName>
+        <categories>Button</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>New Task</shortDescription>
+        <value>New Task</value>
+    </labels>
+    <labels>
+        <fullName>CORE_Normal_Case_Id</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Normal Case Id</shortDescription>
+        <value>0121r000000eBUnAAM</value>
+    </labels>
+    <labels>
+        <fullName>CORE_StatusOfferCreated</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CORE_StatusOfferCreated</shortDescription>
+        <value>Offer created</value>
+    </labels>
+    <labels>
+        <fullName>CORE_StatusOfferPrepared</fullName>
+        <language>en_UK</language>
+        <protected>false</protected>
+        <shortDescription>CORE_StatusOfferPrepared</shortDescription>
+        <value>Offer prepared</value>
+    </labels>
+    <labels>
+        <fullName>CORE_StatusOrderAmendment</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CORE_StatusOrderAmendment</shortDescription>
+        <value>Order Amendment created</value>
+    </labels>
+    <labels>
+        <fullName>CORE_StatusOrderAmendmentConfirm</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CORE_StatusOrderAmendmentConfirm</shortDescription>
+        <value>Order Amendment Confirmation received</value>
+    </labels>
+    <labels>
+        <fullName>CORE_StatusOrderCancellationReceived</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CORE_StatusOrderCancellationReceived</shortDescription>
+        <value>Order Cancellation received</value>
+    </labels>
+    <labels>
+        <fullName>CORE_StatusOrderCancelled</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CORE_StatusOrderCancelled</shortDescription>
+        <value>Order request cancelled</value>
+    </labels>
+    <labels>
+        <fullName>CORE_StatusOrderCompleted</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CORE_StatusOrderCompleted</shortDescription>
+        <value>Order request completed</value>
+    </labels>
+    <labels>
+        <fullName>CORE_StatusOrderConfirmationReceived</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CORE_StatusOrderConfirmationReceived</shortDescription>
+        <value>Order Confirmation received</value>
+    </labels>
+    <labels>
+        <fullName>CORE_StatusOrderConfirmed</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CORE_StatusOrderConfirmed</shortDescription>
+        <value>Pre-Order confirmed</value>
+    </labels>
+    <labels>
+        <fullName>CORE_StatusOrderCreated</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CORE_StatusOrderCreated</shortDescription>
+        <value>Order request created</value>
+    </labels>
+    <labels>
+        <fullName>CORE_StatusOrderRefunded</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CORE_StatusOrderRefunded</shortDescription>
+        <value>Order request refunded</value>
+    </labels>
+    <labels>
+        <fullName>CORE_StatusOrderTriggered</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CORE_StatusOrderTriggered</shortDescription>
+        <value>Pre-Order triggered</value>
+    </labels>
+    <labels>
+        <fullName>CORE_StatusTestDriveAssigned</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CORE_StatusTestDriveAssigned</shortDescription>
+        <value>Testdrive assigned</value>
+    </labels>
+    <labels>
+        <fullName>CORE_StatusTestDriveBooked</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CORE_StatusTestDriveBooked</shortDescription>
+        <value>Testdrive booked</value>
+    </labels>
+    <labels>
+        <fullName>CORE_StatusTestDriveCancelled</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CORE_StatusTestDriveCancelled</shortDescription>
+        <value>Testdrive cancelled</value>
+    </labels>
+    <labels>
+        <fullName>CORE_StatusTestDriveDone</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CORE_StatusTestDriveDone</shortDescription>
+        <value>Testdrive done</value>
+    </labels>
+    <labels>
+        <fullName>CORE_StatusTestDriveStarted</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CORE_StatusTestDriveStarted</shortDescription>
+        <value>Testdrive started</value>
+    </labels>
+    <labels>
+        <fullName>CORE_StatusTestDrivecheckIn</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CORE_StatusTestDrivecheckIn</shortDescription>
+        <value>Testdrive checked-In</value>
+    </labels>
+    <labels>
+        <fullName>CSVMessage</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CSVMessage</shortDescription>
+        <value>If no record is selected, first 1000 of the displayed records will be downloaded.
+To download selected records please select the desired rows you want to download. If more that 1000 records are selected first 1000 of the selected records will be downloaded.</value>
+    </labels>
+    <labels>
+        <fullName>CommunityLeadURL</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CommunityLeadURL</shortDescription>
+        <value>/onecrm/s/opportunity/</value>
+    </labels>
+    <labels>
+        <fullName>CommunityTaskURL</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CommunityTaskURL</shortDescription>
+        <value>/onecrm/s/task/</value>
+    </labels>
+    <labels>
+        <fullName>Dealer_Option</fullName>
+        <categories>Product Interests</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Dealer Option</shortDescription>
+        <value>Dealer Option</value>
+    </labels>
+    <labels>
+        <fullName>Deregistered</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Deregistered</shortDescription>
+        <value>Outbound Message sent to Deregister the Account</value>
+    </labels>
+    <labels>
+        <fullName>File_Upload</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>File Upload</shortDescription>
+        <value>Upload Files</value>
+    </labels>
+    <labels>
+        <fullName>File_Upload_On</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>File Upload On</shortDescription>
+        <value>on</value>
+    </labels>
+    <labels>
+        <fullName>File_upload_done</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>File upload done</shortDescription>
+        <value>File Upload done -</value>
+    </labels>
+    <labels>
+        <fullName>Finance</fullName>
+        <categories>Product Interests</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Finance</shortDescription>
+        <value>Finance</value>
+    </labels>
+    <labels>
+        <fullName>Insurance</fullName>
+        <categories>Product Interests</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Insurance</shortDescription>
+        <value>Insurance</value>
+    </labels>
+    <labels>
+        <fullName>Leasing</fullName>
+        <categories>Product Interests</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Leasing</shortDescription>
+        <value>Leasing</value>
+    </labels>
+    <labels>
+        <fullName>Manager</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Manager</shortDescription>
+        <value>Manager</value>
+    </labels>
+    <labels>
+        <fullName>MercedesMeAccountLogo</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>MercedesMeAccountLogo</shortDescription>
+        <value>/servlet/servlet.FileDownload?file=0150E000000PhOQ</value>
+    </labels>
+    <labels>
+        <fullName>Merge_Assigned</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Merge Assigned</shortDescription>
+        <value>Merge Permission is Assigned</value>
+    </labels>
+    <labels>
+        <fullName>Merge_Master_and_Slave</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Merge Master and Slave</shortDescription>
+        <value>Master &amp; Slave records merged successfully.</value>
+    </labels>
+    <labels>
+        <fullName>Merge_Permission_Message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Merge Permission Message</shortDescription>
+        <value>Please add respective permission sets!</value>
+    </labels>
+    <labels>
+        <fullName>Merge_UnAssigned</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Merge UnAssigned</shortDescription>
+        <value>Admins cannot be assigned with merge permission or Problem in Assigning Merge Permission</value>
+    </labels>
+    <labels>
+        <fullName>NoLeadEscalationViewPermission</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NoLeadEscalationViewPermission</shortDescription>
+        <value>You do not have neccessary permission</value>
+    </labels>
+    <labels>
+        <fullName>Not_Deregistered</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Not Deregistered</shortDescription>
+        <value>Cannot Deregister Account</value>
+    </labels>
+    <labels>
+        <fullName>Record_Deleted</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Record Deleted</shortDescription>
+        <value>Record Deleted Successfully !</value>
+    </labels>
+    <labels>
+        <fullName>Representative</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Representative</shortDescription>
+        <value>Representative</value>
+    </labels>
+    <labels>
+        <fullName>Service</fullName>
+        <categories>Product Interests</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Service</shortDescription>
+        <value>Service</value>
+    </labels>
+    <labels>
+        <fullName>System_Administrator</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>System Administrator</shortDescription>
+        <value>System Administrator</value>
+    </labels>
+    <labels>
+        <fullName>System_Label</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>System Label</shortDescription>
+        <value>System</value>
+    </labels>
+    <labels>
+        <fullName>Task_Subject</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Task Subject</shortDescription>
+        <value>Contact Changed to Online</value>
+    </labels>
+    <labels>
+        <fullName>Test_Outbound_Workflow</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Test Outbound Workflow</shortDescription>
+        <value>https://requestb.in/</value>
+    </labels>
+    <labels>
+        <fullName>Title_of_Note</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Title of Note</shortDescription>
+        <value>Initial Description</value>
+    </labels>
+    <labels>
+        <fullName>Trade_in</fullName>
+        <categories>Product Interests</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Trade-in</shortDescription>
+        <value>Trade-in</value>
+    </labels>
+    <labels>
+        <fullName>Unable_to_Delete</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Unable to Delete</shortDescription>
+        <value>Unable to Delete Record !</value>
+    </labels>
+    <labels>
+        <fullName>Update_Contact_Record</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Update Contact Record</shortDescription>
+        <value>Please update correct contact on the slave record!</value>
+    </labels>
+    <labels>
+        <fullName>Update_Master_Lead</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Update Master Lead</shortDescription>
+        <value>Please update Master Lead field.</value>
+    </labels>
+    <labels>
+        <fullName>connect_me</fullName>
+        <categories>Product Interests</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>connect me</shortDescription>
+        <value>connect me</value>
+    </labels>
+    <labels>
+        <fullName>onlineMergeError</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>onlineMergeError</shortDescription>
+        <value>Online Person Accounts Cannot be Merged as Slave</value>
+    </labels>
+</CustomLabels>
